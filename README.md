@@ -12,7 +12,7 @@ N/A
 
 Website has navigational bar at the top of the page. Click on each option and be taken to the appropriate section.
 
-![Screenshot](02-Challenge/Develop/assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
