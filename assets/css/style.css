@@ -1,9 +1,11 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body element selector */
 body {
     background-color: #d9dcd6;
 }
@@ -72,6 +74,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+
 .float-left {
     float: left;
     margin-right: 25px;

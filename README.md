@@ -14,6 +14,8 @@ Website has navigational bar at the top of the page. Click on each option and be
 
 ![Screenshot](assets/images/screenshot.png)
 
+https://mmeggett.github.io/horeison-home-page/
+
 ## Credits
 
 N/A
