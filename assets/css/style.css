@@ -38,6 +38,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 /* Main text formatting */
 .content {
@@ -154,11 +158,7 @@ p {
     max-width: 150px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* Website main image */
 .hero {
     height: 800px;
     width: 100%;
